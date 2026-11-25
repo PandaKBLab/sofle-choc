@@ -21,7 +21,7 @@ Select the build for your controller and PCB revision before flashing. Verified 
 | Right switch plate | [DXF](hardware/sofle-choc-plate-right.dxf) |
 | `SofleChoc-V1` bare PCB | [STEP](hardware/sofle-choc-v1-pcb.step) |
 | Schematic | Pending a complete schematic for this PCB revision |
-| Cases | [Case references](cases/) |
+| Cases | [Community case for PandaKB Sofle Choc](cases/) |
 
 The plate drawings are at 1:1 scale in millimeters. Case designs also need clearance for the controller, power switch, and battery connector.
 

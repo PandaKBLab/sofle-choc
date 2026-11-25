@@ -1,5 +1,9 @@
-# Sofle Choc cases
+# PandaKB Sofle Choc cases
 
-The PandaKB PCB shares the original Sofle Choc outline and screw-hole positions. Check the clearance around the controller, power switch, battery connector, and installed battery before printing a case.
+## Community model
 
-- [Choc Sofle Case by lytedev](https://www.thingiverse.com/thing:5138904) is a community print for the original Sofle Choc. Fit with the PandaKB components is pending verification.
+**Sofle Choc Wireless Case (PandaKB, dual 2000 mAh batteries)** by dubiouscreation. The author adapted the case for the PandaKB wireless kit’s slide switch and battery connector.
+
+[Printables](https://www.printables.com/model/1096658) · [Thingiverse](https://www.thingiverse.com/thing:6856887)
+
+Fit with `SofleChoc-V1` is pending confirmation. Check the controller, switch and battery connector clearance against your assembled board before printing.
